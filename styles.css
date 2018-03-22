@@ -7,9 +7,16 @@ h1{
     color:#e61610;
     font-family: Verdana;
     text-align:center;
+    margin:auto;
 }
 #bang{
     color:#550b09;
     font-family: Garamond;
     text-align:center;
+}
+body{
+    background:grey;
+}
+img{
+    padding-left:50%;
 }
